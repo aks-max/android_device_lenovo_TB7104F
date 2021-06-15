@@ -72,3 +72,5 @@ TW_SCREEN_BLANK_ON_BOOT := true
 TW_INPUT_BLACKLIST := "hbtp_vm"
 SHRP_LITE := true
 TW_USE_TOOLBOX := true
+TW_EXCLUDE_BASH := true
+TW_EXCLUDE_NANO := true
